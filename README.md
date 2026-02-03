@@ -1,6 +1,6 @@
-# Time Glitch Arcade (MS-DOS)
+# Time Bug: Judged by Retro Police (MS-DOS)
 
-Juego arcade de **micro-juegos clásicos** para **MS-DOS real**, desarrollado en C y orientado a hardware clásico (386/486).  
+Juego arcade de **micro-juegos** para **MS-DOS real**, desarrollado en C y orientado a hardware clásico (386/486).  
 El proyecto es un viaje por distintas épocas del videojuego (70s → 80s → 90s), con una última parada paródica en el “infierno moderno” de los juegos móviles.
 
 ✅ **Este juego se ha hecho para el II Concurso de Videojuegos en MS-DOS del MS-DOS Club.**
